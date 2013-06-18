@@ -1,9 +1,9 @@
 [submodule "deployment-as-a-service-presentation"]
 	path = deployment-as-a-service-presentation
-	url = git@github.com:tobyclemson/deployment-as-a-service-presentation.git
+	url = https://github.com/tobyclemson/deployment-as-a-service-presentation.git
 [submodule "scala-full-stack-dev-presentation"]
 	path = scala-full-stack-dev-presentation
-	url = git@github.com:tobyclemson/scala-full-stack-dev-presentation.git
+	url = https://github.com/tobyclemson/scala-full-stack-dev-presentation.git
 [submodule "testing-micro-service-architecture-presentation"]
 	path = testing-micro-service-architecture-presentation
-	url = git@github.com:tobyclemson/testing-micro-service-architecture-presentation.git
+	url = https://github.com/tobyclemson/testing-micro-service-architecture-presentation.git
