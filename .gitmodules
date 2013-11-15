@@ -7,3 +7,6 @@
 [submodule "testing-micro-service-architecture-presentation"]
 	path = testing-micro-service-architecture-presentation
 	url = https://github.com/tobyclemson/testing-micro-service-architecture-presentation.git
+[submodule "builder-pattern-presentation"]
+	path = builder-pattern-presentation
+	url = https://github.com/tobyclemson/builder-pattern-presentation.git
