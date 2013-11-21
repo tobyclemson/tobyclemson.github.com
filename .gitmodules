@@ -10,3 +10,6 @@
 [submodule "builder-pattern-presentation"]
 	path = builder-pattern-presentation
 	url = https://github.com/tobyclemson/builder-pattern-presentation.git
+[submodule "net-neutrality"]
+	path = net-neutrality
+	url = git@github.com:tobyclemson/net-neutrality.git
